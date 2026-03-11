@@ -14,6 +14,10 @@ public class EventService : IEventService
     {
         return await _context.Events.ToListAsync();
     }
+    public async Task<List<Event>> GetEventsByUserIdAsync(string userId)
+    {
+        return await _context.Events.Where(e => e.OrganizerId == userId).ToListAsync();
+    }
 
     public async Task<Event> GetEventByIdAsync(int id)
     {

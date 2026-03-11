@@ -1,0 +1,44 @@
+# Build outputs
+bin/
+obj/
+artifacts/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+.fleet/
+*.sln.iml
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# dotnet tools and local caches
+.dotnet/
+
+# Secrets and environment overrides
+appsettings.Local.json
+appsettings.*.Local.json
+secrets.json
+.env
+.env.*

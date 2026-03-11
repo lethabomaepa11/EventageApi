@@ -324,3 +324,4 @@ C:\Users\Lethabo\projects\eventageapi\obj\Debug\net10.0\refint\EventageApi.dll
 C:\Users\Lethabo\projects\eventageapi\obj\Debug\net10.0\EventageApi.pdb
 C:\Users\Lethabo\projects\eventageapi\obj\Debug\net10.0\EventageApi.genruntimeconfig.cache
 C:\Users\Lethabo\projects\eventageapi\obj\Debug\net10.0\ref\EventageApi.dll
+C:\Users\Lethabo\projects\eventageapi\obj\Debug\net10.0\EventageApi.sourcelink.json

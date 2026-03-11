@@ -24,6 +24,7 @@ public class EventController : ControllerBase
         return Ok(events);
     }
 
+
     [HttpGet("{id}")]
     public async Task<ActionResult<Event>> GetEventById(int id)
     {
